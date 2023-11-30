@@ -21,4 +21,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joserlopes&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserlopes&theme=gruvbox&hide=prolog,jupyter-notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserlopes&theme=gruvbox&hide=prolog,jupyter_notebook)
