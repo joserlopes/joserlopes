@@ -1,7 +1,7 @@
 # Hi there 👋 **My name is José Lopes, I currently live in Lisbon, Portugal!**
 
-- 📚 Studied Computer Science (LEIC) at IST, Lisbon.
-- 📚 Doing a Masters (MEIC) at IST, Lisbon. More precisely, studying Software Engineering and Algorithms and Applications.
+- 📚 Studied Computer Science and Engineering (LEIC) at IST, Lisbon.
+- 📚 Doing a Masters in Computer Science and Engineering (MEIC) at IST, Lisbon. More precisely, studying Software Engineering and Algorithms and Applications.
 - 🦀 Rust enthusiast!
 - ![Compilation of my projects at IST](https://github.com/joserlopes/joserlopes/blob/main/ist.md)
 
