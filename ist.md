@@ -6,7 +6,7 @@ Below you will find a list of the projects I've developed during my time at IST.
 
 - FP
   - First Project: [joserlopes/FP_Project1](https://github.com/joserlopes/FP_Project1)
-  - First Project: [joserlopes/FP_Project2](https://github.com/joserlopes/FP_Project2)
+  - Second Project: [joserlopes/FP_Project2](https://github.com/joserlopes/FP_Project2)
 - LP
   - Project (for both of the years I attented this course): [joserlopes/LP](https://github.com/joserlopes/LP)
 - IAED
@@ -43,7 +43,13 @@ Below you will find a list of the projects I've developed during my time at IST.
 - RC
   - Project: [joserlopes/RC](https://github.com/joserlopes/RC)
 
-# Masters Projects
+# Masters' Projects
 
 ## First year
 
+- ALC
+  - First Project: [joserlopes/Algorithms-for-Computational-Logic-Project1](https://github.com/joserlopes/Algorithms-for-Computational-Logic-Project1)
+  - Second Project: [joserlopes/Algorithms-for-Computational-Logic-Project2](https://github.com/joserlopes/Algorithms-for-Computational-Logic-Project2)
+- QS
+  - First Project: [joserlopes/Software-Specification-Dafny](https://github.com/joserlopes/Software-Specification-Dafny)
+  - Second Project: [joserlopes/Software-Specification-Alloy](https://github.com/joserlopes/Software-Specification-Alloy)
