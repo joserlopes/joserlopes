@@ -50,6 +50,8 @@ Below you will find a list of the projects I've developed during my time at IST.
 - ALC
   - First Project: [joserlopes/Algorithms-for-Computational-Logic-Project1](https://github.com/joserlopes/Algorithms-for-Computational-Logic-Project1)
   - Second Project: [joserlopes/Algorithms-for-Computational-Logic-Project2](https://github.com/joserlopes/Algorithms-for-Computational-Logic-Project2)
-- QS
+- ES
   - First Project: [joserlopes/Software-Specification-Dafny](https://github.com/joserlopes/Software-Specification-Dafny)
   - Second Project: [joserlopes/Software-Specification-Alloy](https://github.com/joserlopes/Software-Specification-Alloy)
+- SSof
+  - Project: [joserlopes/SSof](https://github.com/joserlopes/SSof)
