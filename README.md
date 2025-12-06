@@ -19,6 +19,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joserlopes&theme=gruvbox)
+![GitHub Card](https://githubcard.com/joserlopes.svg?d=-EORndw3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserlopes&theme=gruvbox&hide=prolog,Jupyter%20Notebook)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joserlopes&theme=gruvbox) -->
+<!---->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserlopes&theme=gruvbox&hide=prolog,Jupyter%20Notebook) -->
